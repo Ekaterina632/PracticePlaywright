@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Test result outputs
+test-results/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+dist/
+build/
+
+# Playwright-specific
+trace.zip
+screenshots/
+videos/
